@@ -1,68 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members></members>
-        <members></members>
-        <members></members>
-        <members></members>
-        <members></members>
-        <members></members>
-        <members></members>
-        <members></members>
-        <members></members>
-        <members></members>
-        <members></members>
-        <members></members>
-        <members></members>
-        <members></members>
-        <members></members>
-
-        <members></members>
-        <members></members>
-        <members></members>
-        <members></members>
-        <members></members>
-        <members></members>
-        <members></members>
-        <members></members>
-        <members></members>
-        <members></members>
-        <members></members>
-        <name>DataKitObjectTemplate</name>
+        <members>Current_Workload</members>
+        <members>Forecast_Funding</members>
+        <members>Performance_Overview_Vertical</members>
+        <members>SIB_Funding_KPIs</members>
+        <name>AnalyticsDashboard</name>
     </types>
     <types>
-        <members>TabNext_Dashboards</members>
-        <name>DataPackageKitDefinition</name>
+        <members>Application_by_Fund</members>
+        <members>Average_Days_Open</members>
+        <members>BAME_Led_Orgs</members>
+        <members>Copy_of_Open_Applications_by_User</members>
+        <members>Copy_of_Total_Application_Amount_v_Fund_Size</members>
+        <members>Current_Active_Investments</members>
+        <members>Disability_Led</members>
+        <members>Estimated_Funding_v_Fund</members>
+        <members>IMD_Breakdown</members>
+        <members>IMD_Breakdown_by_Amount</members>
+        <members>Investment_Caseload</members>
+        <members>Investment_Caseload_Table</members>
+        <members>Investments_by_Fund</members>
+        <members>New_Visualization11</members>
+        <members>New_Visualization12</members>
+        <members>Open_Applications</members>
+        <members>Stalled_Applications_by_User</members>
+        <members>Stalled_Applications_by_User1</members>
+        <members>Total_Application_Amount_v_Fund_Size</members>
+        <members>Total_Applications</members>
+        <members>Women_Led</members>
+        <members>X360_Funding</members>
+        <name>AnalyticsVisualization</name>
     </types>
     <types>
-        <members>TabNext_Dashboards_1769676661780</members>
-        <members>TabNext_Dashboards_1769676662525</members>
-        <members>TabNext_Dashboards_1769676663363</members>
-        <members>TabNext_Dashboards_1769676663892</members>
-        <members>TabNext_Dashboards_1769676664600</members>
-        <members>TabNext_Dashboards_1769676665243</members>
-        <members>TabNext_Dashboards_1769676666098</members>
-        <members>TabNext_Dashboards_1769676666711</members>
-        <members>TabNext_Dashboards_1769676667326</members>
-        <members>TabNext_Dashboards_1769676667887</members>
-        <members>TabNext_Dashboards_1769676668567</members>
-        <members>TabNext_Dashboards_1769676669101</members>
-        <members>TabNext_Dashboards_1769676669599</members>
-        <members>TabNext_Dashboards_1769676670193</members>
-        <members>TabNext_Dashboards_1769676670841</members>
-        <members>TabNext_Dashboards_1769676671425</members>
-        <members>TabNext_Dashboards_1769676671959</members>
-        <members>TabNext_Dashboards_1769676672494</members>
-        <members>TabNext_Dashboards_1769676673095</members>
-        <members>TabNext_Dashboards_1769676673662</members>
-        <members>TabNext_Dashboards_1769676674246</members>
-        <members>TabNext_Dashboards_1769676674794</members>
-        <members>TabNext_Dashboards_1769676675349</members>
-        <members>TabNext_Dashboards_1769676675848</members>
-        <members>TabNext_Dashboards_1769676676367</members>
-        <members>TabNext_Dashboards_1769676676974</members>
-        <members>TabNext_Dashboards_1769676677158</members>
-        <name>DataPackageKitObject</name>
+        <members>Nebula</members>
+        <name>AnalyticsWorkspace</name>
     </types>
-    <version>66.0</version>
+    <version>65.0</version>
 </Package>
